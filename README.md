@@ -1,8 +1,8 @@
 # Next-Word-Prediction
- This project aims to develop a deep learning model for predicting the next word in a given sequence of words. The model is built using LSTM networks, which are well-suited for sequence prediction tasks
+ This project aims to develop a deep learning model for predicting the next word in a given sequence of words. The model is built using LSTM and GRU networks, which are well-suited for sequence prediction tasks
 
 ## Features
-- Deep Learning Model: Uses an Long Short-Term Memory (LSTM) built with TensorFlow/Keras.
+- Deep Learning Model: Uses an Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) built with TensorFlow/Keras.
 - Interactive UI: Powered by Streamlit for real-time predictions.
 
 ## Installation
